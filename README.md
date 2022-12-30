@@ -4,7 +4,7 @@
 
 I'm junior web developer. I am very passionate and dedicated to my work and love to learn new things every day.
 
-Skills: / HTML / CSS/BOOTSTRAP/ JS/JQUERY/PHP /LARAVEL 
+Skills: HTML / CSS / BOOTSTRAP / JS/ JQUERY / PHP / LARAVEL 
 
 - 🔭 I’m currently working on Doptor Ltd 
 - 🌱 I’m currently learning PHP with Laravel Framework 
